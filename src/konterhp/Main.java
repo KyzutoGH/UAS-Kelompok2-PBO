@@ -15,6 +15,7 @@ import java.util.Locale;
  * Teknik Informatika - Universitas Islam Balitar
  * 2022 - 2023
  * User - Swift Studio
+ * Fungsi program ini adalah untuk mengetahui harga setelah pajak dengan kondisi PPN yang berbeda
  */
 public class Main implements Pajak{
     //Deklarasi variabel privat
